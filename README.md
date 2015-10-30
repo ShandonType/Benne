@@ -1,4 +1,4 @@
-EB Kannada is a Kannada text font developed by John Harrington. 
+Benne is a Kannada text font developed by John Harrington. 
 The style and weights of EB Kannada are designed to harmonise with EB Garamond, originally designed by Georg Duffner.
 EB Kannada will be available in Google Fonts.
 
