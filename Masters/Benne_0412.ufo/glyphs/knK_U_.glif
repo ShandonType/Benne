@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKU" format="1">
+  <advance width="879"/>
+  <outline>
+    <component base="knKA"/>
+    <component base="knmU" xOffset="522"/>
+    <contour>
+      <point x="270" y="0" type="move" name="blwm.kssa"/>
+    </contour>
+  </outline>
+</glyph>

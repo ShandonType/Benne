@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knGO" format="1">
+  <advance width="1121"/>
+  <outline>
+    <component base="knGE"/>
+  </outline>
+</glyph>

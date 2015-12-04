@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knLLL" format="1">
+  <advance width="1137"/>
+  <outline>
+    <component base="knLLLA"/>
+  </outline>
+</glyph>

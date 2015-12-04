@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knRUU" format="1">
+  <advance width="1153"/>
+  <outline>
+    <component base="knRA"/>
+    <component base="knmUU" xOffset="532"/>
+  </outline>
+</glyph>

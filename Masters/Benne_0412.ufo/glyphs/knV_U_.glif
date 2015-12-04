@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knVU" format="1">
+  <advance width="1042"/>
+  <outline>
+    <component base="knVA"/>
+  </outline>
+</glyph>

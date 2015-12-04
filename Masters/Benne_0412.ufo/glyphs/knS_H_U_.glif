@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSHU" format="1">
+  <advance width="960"/>
+  <outline>
+    <component base="knSHA"/>
+  </outline>
+</glyph>
