@@ -8,4 +8,11 @@
       <point x="270" y="0" type="move" name="blwm.kssa"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

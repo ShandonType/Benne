@@ -5,4 +5,11 @@
     <component base="knNNA"/>
     <component base="knmU" xOffset="730"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
