@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knGAc2.following" format="1">
+  <advance width="312"/>
+  <outline>
+    <contour>
+      <point x="2" y="-119"/>
+      <point x="64" y="-192"/>
+      <point x="64" y="-364" type="curve" smooth="yes"/>
+      <point x="64" y="-470" type="line"/>
+      <point x="126" y="-470" type="line"/>
+      <point x="126" y="-383" type="line" smooth="yes"/>
+      <point x="126" y="-219"/>
+      <point x="39" y="-86"/>
+      <point x="-44" y="-86" type="curve"/>
+      <point x="-127" y="-86"/>
+      <point x="-214" y="-219"/>
+      <point x="-214" y="-383" type="curve" smooth="yes"/>
+      <point x="-214" y="-470" type="line"/>
+      <point x="-152" y="-470" type="line"/>
+      <point x="-152" y="-364" type="line" smooth="yes"/>
+      <point x="-152" y="-192"/>
+      <point x="-90" y="-119"/>
+      <point x="-44" y="-119" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

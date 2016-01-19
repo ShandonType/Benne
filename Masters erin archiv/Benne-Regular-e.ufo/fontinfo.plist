@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>777</integer>
+	<key>capHeight</key>
+	<integer>655</integer>
+	<key>copyright</key>
+	<string>Copyright © 2015 by John-Daniel Harrington  All rights reserved. Copyright © 2015 by Georg Duffner. All rights reserved. Copyright © 2015 by Indian Type Foundry. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-285</integer>
+	<key>familyName</key>
+	<string>Benne</string>
+	<key>openTypeHeadCreated</key>
+	<string>2015/09/28 11:09:01</string>
+	<key>openTypeNameDesigner</key>
+	<string>John-Daniel Harrington</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://poststudio.net</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Post Studio</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>http://poststudio.net</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Benne</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-14</integer>
+		<integer>0</integer>
+		<integer>404</integer>
+		<integer>414</integer>
+		<integer>509</integer>
+		<integer>519</integer>
+		<integer>655</integer>
+		<integer>665</integer>
+	</array>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>404</integer>
+</dict>
+</plist>
