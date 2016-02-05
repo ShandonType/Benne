@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSSAc2.kssa" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-48" y="-457"/>
+      <point x="-42" y="-472"/>
+      <point x="-24" y="-472" type="curve" smooth="yes"/>
+      <point x="-8" y="-472"/>
+      <point x="0" y="-459"/>
+      <point x="0" y="-442" type="curve" smooth="yes"/>
+      <point x="0" y="-318"/>
+      <point x="-44" y="-204"/>
+      <point x="-105" y="-204" type="curve"/>
+      <point x="-87" y="-220" type="line"/>
+      <point x="-51" y="-296"/>
+      <point x="-48" y="-375"/>
+      <point x="-48" y="-432" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-240" y="-323" type="line"/>
+      <point x="-226" y="-380"/>
+      <point x="-177" y="-412"/>
+      <point x="-129" y="-412" type="curve" smooth="yes"/>
+      <point x="-72" y="-412"/>
+      <point x="-45" y="-368"/>
+      <point x="-45" y="-303" type="curve" smooth="yes"/>
+      <point x="-45" y="-235"/>
+      <point x="-67" y="-204"/>
+      <point x="-110" y="-204" type="curve" smooth="yes"/>
+      <point x="-150" y="-204"/>
+      <point x="-170" y="-230"/>
+      <point x="-178" y="-260" type="curve"/>
+      <point x="-161" y="-272" type="line"/>
+      <point x="-152" y="-257"/>
+      <point x="-139" y="-244"/>
+      <point x="-117" y="-244" type="curve" smooth="yes"/>
+      <point x="-92" y="-244"/>
+      <point x="-73" y="-261"/>
+      <point x="-73" y="-298" type="curve" smooth="yes"/>
+      <point x="-73" y="-338"/>
+      <point x="-96" y="-359"/>
+      <point x="-129" y="-359" type="curve" smooth="yes"/>
+      <point x="-183" y="-359"/>
+      <point x="-226" y="-303"/>
+      <point x="-236" y="-249" type="curve"/>
+      <point x="-250" y="-249" type="line"/>
+      <point x="-260" y="-303"/>
+      <point x="-303" y="-359"/>
+      <point x="-357" y="-359" type="curve" smooth="yes"/>
+      <point x="-390" y="-359"/>
+      <point x="-413" y="-338"/>
+      <point x="-413" y="-298" type="curve" smooth="yes"/>
+      <point x="-413" y="-261"/>
+      <point x="-394" y="-244"/>
+      <point x="-369" y="-244" type="curve" smooth="yes"/>
+      <point x="-347" y="-244"/>
+      <point x="-334" y="-257"/>
+      <point x="-325" y="-272" type="curve"/>
+      <point x="-308" y="-260" type="line"/>
+      <point x="-316" y="-230"/>
+      <point x="-336" y="-204"/>
+      <point x="-376" y="-204" type="curve" smooth="yes"/>
+      <point x="-419" y="-204"/>
+      <point x="-441" y="-235"/>
+      <point x="-441" y="-303" type="curve" smooth="yes"/>
+      <point x="-441" y="-368"/>
+      <point x="-414" y="-412"/>
+      <point x="-357" y="-412" type="curve" smooth="yes"/>
+      <point x="-309" y="-412"/>
+      <point x="-260" y="-380"/>
+      <point x="-246" y="-323" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knSSAc2.kssa</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

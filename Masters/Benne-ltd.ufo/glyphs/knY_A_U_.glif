@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knYAU" format="1">
+  <advance width="1607"/>
+  <outline>
+    <contour>
+      <point x="1041" y="434" type="line" smooth="yes"/>
+      <point x="1122" y="434"/>
+      <point x="1176" y="480"/>
+      <point x="1176" y="552" type="curve" smooth="yes"/>
+      <point x="1176" y="607"/>
+      <point x="1145" y="648"/>
+      <point x="1102" y="664" type="curve"/>
+      <point x="1087" y="644" type="line"/>
+      <point x="1111" y="635"/>
+      <point x="1133" y="610"/>
+      <point x="1133" y="576" type="curve" smooth="yes"/>
+      <point x="1133" y="536"/>
+      <point x="1102" y="509"/>
+      <point x="1041" y="509" type="curve" smooth="yes"/>
+      <point x="981" y="509" type="line"/>
+      <point x="981" y="434" type="line"/>
+    </contour>
+    <component base="knYA.base"/>
+    <component base="knmAU" xOffset="1227"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knYA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knYAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1607</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

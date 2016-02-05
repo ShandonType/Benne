@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knAIlengthmark" format="1">
+  <advance width="98"/>
+  <unicode hex="0CD6"/>
+  <outline>
+    <contour>
+      <point x="60" y="-95"/>
+      <point x="98" y="-57"/>
+      <point x="98" y="-9" type="curve" smooth="yes"/>
+      <point x="98" y="38"/>
+      <point x="62" y="68"/>
+      <point x="9" y="73" type="curve"/>
+      <point x="7" y="52" type="line"/>
+      <point x="37" y="43"/>
+      <point x="58" y="23"/>
+      <point x="58" y="-11" type="curve" smooth="yes"/>
+      <point x="58" y="-43"/>
+      <point x="38" y="-70"/>
+      <point x="-3" y="-94" type="curve"/>
+      <point x="18" y="-106" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="-302"/>
+      <point x="31" y="-359"/>
+      <point x="-70" y="-359" type="curve" smooth="yes"/>
+      <point x="-150" y="-359"/>
+      <point x="-205" y="-321"/>
+      <point x="-205" y="-251" type="curve" smooth="yes"/>
+      <point x="-205" y="-203"/>
+      <point x="-181" y="-147"/>
+      <point x="-122" y="-147" type="curve" smooth="yes"/>
+      <point x="-94" y="-147"/>
+      <point x="-79" y="-156"/>
+      <point x="-79" y="-181" type="curve" smooth="yes"/>
+      <point x="-79" y="-203"/>
+      <point x="-90" y="-217"/>
+      <point x="-123" y="-217" type="curve" smooth="yes"/>
+      <point x="-155" y="-217"/>
+      <point x="-170" y="-203"/>
+      <point x="-170" y="-177" type="curve" smooth="yes"/>
+      <point x="-170" y="-169"/>
+      <point x="-168" y="-156"/>
+      <point x="-165" y="-150" type="curve"/>
+      <point x="-175" y="-142" type="line"/>
+      <point x="-186" y="-163" type="line"/>
+      <point x="-187" y="-178"/>
+      <point x="-188" y="-187"/>
+      <point x="-188" y="-193" type="curve" smooth="yes"/>
+      <point x="-188" y="-239"/>
+      <point x="-160" y="-261"/>
+      <point x="-120" y="-261" type="curve" smooth="yes"/>
+      <point x="-77" y="-261"/>
+      <point x="-51" y="-235"/>
+      <point x="-51" y="-183" type="curve" smooth="yes"/>
+      <point x="-51" y="-137"/>
+      <point x="-70" y="-106"/>
+      <point x="-116" y="-106" type="curve" smooth="yes"/>
+      <point x="-190" y="-106"/>
+      <point x="-231" y="-187"/>
+      <point x="-231" y="-260" type="curve" smooth="yes"/>
+      <point x="-231" y="-346"/>
+      <point x="-166" y="-412"/>
+      <point x="-72" y="-412" type="curve" smooth="yes"/>
+      <point x="37" y="-412"/>
+      <point x="108" y="-334"/>
+      <point x="108" y="-238" type="curve" smooth="yes"/>
+      <point x="108" y="-158"/>
+      <point x="65" y="-105"/>
+      <point x="17" y="-94" type="curve"/>
+      <point x="-3" y="-94" type="line"/>
+      <point x="3" y="-110" type="line"/>
+      <point x="43" y="-119"/>
+      <point x="78" y="-173"/>
+      <point x="78" y="-233" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>4</integer>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knAIlengthmark</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>98</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knRRAU" format="1">
+  <advance width="1233"/>
+  <outline>
+    <contour>
+      <point x="1129" y="186"/>
+      <point x="1203" y="292"/>
+      <point x="1203" y="438" type="curve" smooth="yes"/>
+      <point x="1203" y="601"/>
+      <point x="1114" y="709"/>
+      <point x="894" y="709" type="curve" smooth="yes"/>
+      <point x="549" y="709" type="line"/>
+      <point x="549" y="634" type="line"/>
+      <point x="915" y="634" type="line" smooth="yes"/>
+      <point x="1070" y="634"/>
+      <point x="1168" y="555"/>
+      <point x="1168" y="435" type="curve" smooth="yes"/>
+      <point x="1168" y="329"/>
+      <point x="1106" y="268"/>
+      <point x="1016" y="268" type="curve" smooth="yes"/>
+      <point x="942" y="268"/>
+      <point x="898" y="313"/>
+      <point x="898" y="372" type="curve" smooth="yes"/>
+      <point x="898" y="412"/>
+      <point x="919" y="437"/>
+      <point x="931" y="437" type="curve" smooth="yes"/>
+      <point x="935" y="437"/>
+      <point x="937" y="434"/>
+      <point x="937" y="430" type="curve" smooth="yes"/>
+      <point x="937" y="429"/>
+      <point x="937" y="428"/>
+      <point x="937" y="427" type="curve"/>
+      <point x="938" y="391"/>
+      <point x="959" y="365"/>
+      <point x="992" y="365" type="curve" smooth="yes"/>
+      <point x="1027" y="365"/>
+      <point x="1053" y="394"/>
+      <point x="1052" y="430" type="curve"/>
+      <point x="1053" y="462"/>
+      <point x="1028" y="499"/>
+      <point x="973" y="499" type="curve" smooth="yes"/>
+      <point x="901" y="499"/>
+      <point x="861" y="435"/>
+      <point x="860" y="357" type="curve" smooth="yes"/>
+      <point x="861" y="258"/>
+      <point x="921" y="186"/>
+      <point x="1017" y="186" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="670" y="434" type="line" smooth="yes"/>
+      <point x="731" y="434"/>
+      <point x="785" y="480"/>
+      <point x="785" y="552" type="curve" smooth="yes"/>
+      <point x="785" y="607"/>
+      <point x="754" y="648"/>
+      <point x="711" y="664" type="curve"/>
+      <point x="696" y="644" type="line"/>
+      <point x="720" y="635"/>
+      <point x="742" y="610"/>
+      <point x="742" y="576" type="curve" smooth="yes"/>
+      <point x="742" y="536"/>
+      <point x="711" y="509"/>
+      <point x="650" y="509" type="curve" smooth="yes"/>
+      <point x="609" y="509" type="line"/>
+      <point x="659" y="434" type="line"/>
+    </contour>
+    <component base="knRRA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knRRA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knRRAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1233</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

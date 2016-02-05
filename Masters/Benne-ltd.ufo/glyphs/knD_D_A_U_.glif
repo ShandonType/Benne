@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knDDAU" format="1">
+  <advance width="1064"/>
+  <outline>
+    <contour>
+      <point x="253" y="-14"/>
+      <point x="321" y="43"/>
+      <point x="344" y="126" type="curve"/>
+      <point x="346" y="126" type="line"/>
+      <point x="369" y="43"/>
+      <point x="437" y="-14"/>
+      <point x="505" y="-14" type="curve" smooth="yes"/>
+      <point x="572" y="-14"/>
+      <point x="635" y="33"/>
+      <point x="635" y="145" type="curve" smooth="yes"/>
+      <point x="635" y="218"/>
+      <point x="575" y="355"/>
+      <point x="468" y="355" type="curve" smooth="yes"/>
+      <point x="407" y="355"/>
+      <point x="378" y="315"/>
+      <point x="378" y="277" type="curve" smooth="yes"/>
+      <point x="378" y="229"/>
+      <point x="420" y="185"/>
+      <point x="476" y="185" type="curve" smooth="yes"/>
+      <point x="527" y="185"/>
+      <point x="576" y="216"/>
+      <point x="576" y="284" type="curve" smooth="yes"/>
+      <point x="576" y="397"/>
+      <point x="450" y="467"/>
+      <point x="345" y="467" type="curve" smooth="yes"/>
+      <point x="208" y="467"/>
+      <point x="55" y="339"/>
+      <point x="55" y="160" type="curve" smooth="yes"/>
+      <point x="55" y="33"/>
+      <point x="117" y="-14"/>
+      <point x="185" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="138" y="71"/>
+      <point x="104" y="114"/>
+      <point x="104" y="192" type="curve" smooth="yes"/>
+      <point x="104" y="300"/>
+      <point x="213" y="441"/>
+      <point x="345" y="441" type="curve" smooth="yes"/>
+      <point x="456" y="441"/>
+      <point x="544" y="355"/>
+      <point x="544" y="299" type="curve" smooth="yes"/>
+      <point x="544" y="274"/>
+      <point x="526" y="243"/>
+      <point x="475" y="243" type="curve" smooth="yes"/>
+      <point x="438" y="243"/>
+      <point x="417" y="262"/>
+      <point x="417" y="285" type="curve" smooth="yes"/>
+      <point x="417" y="307"/>
+      <point x="439" y="326"/>
+      <point x="475" y="326" type="curve" smooth="yes"/>
+      <point x="536" y="326"/>
+      <point x="589" y="254"/>
+      <point x="589" y="174" type="curve" smooth="yes"/>
+      <point x="589" y="113"/>
+      <point x="554" y="71"/>
+      <point x="495" y="71" type="curve" smooth="yes"/>
+      <point x="429" y="71"/>
+      <point x="364" y="145"/>
+      <point x="350" y="221" type="curve"/>
+      <point x="341" y="221" type="line"/>
+      <point x="327" y="145"/>
+      <point x="261" y="71"/>
+      <point x="196" y="71" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="241" y="434" type="line"/>
+      <point x="345" y="444" type="line"/>
+      <point x="448" y="434" type="line"/>
+      <point x="499" y="434" type="line"/>
+      <point x="499" y="509" type="line"/>
+      <point x="55" y="509" type="line"/>
+      <point x="55" y="434" type="line"/>
+    </contour>
+    <component base="knmAU" xOffset="684"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knDDA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knDDAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1064</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

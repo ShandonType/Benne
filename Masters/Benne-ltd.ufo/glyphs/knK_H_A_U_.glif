@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKHAU" format="1">
+  <advance width="1155"/>
+  <outline>
+    <contour>
+      <point x="590" y="434" type="line" smooth="yes"/>
+      <point x="671" y="434"/>
+      <point x="725" y="480"/>
+      <point x="725" y="552" type="curve" smooth="yes"/>
+      <point x="725" y="607"/>
+      <point x="694" y="648"/>
+      <point x="651" y="664" type="curve"/>
+      <point x="636" y="644" type="line"/>
+      <point x="660" y="635"/>
+      <point x="682" y="610"/>
+      <point x="682" y="576" type="curve" smooth="yes"/>
+      <point x="682" y="536"/>
+      <point x="651" y="509"/>
+      <point x="590" y="509" type="curve" smooth="yes"/>
+      <point x="530" y="509" type="line"/>
+      <point x="530" y="434" type="line"/>
+    </contour>
+    <component base="knKHA.base"/>
+    <component base="knmAU" xOffset="775"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knKHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKHAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1155</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecaron" format="1">
+  <advance width="388"/>
+  <unicode hex="011B"/>
+  <outline>
+    <contour>
+      <point x="217" y="547"/>
+      <point x="219" y="547"/>
+      <point x="222" y="550" type="curve"/>
+      <point x="273" y="621"/>
+      <point x="305" y="657"/>
+      <point x="317" y="657" type="curve" smooth="yes"/>
+      <point x="323" y="657"/>
+      <point x="326" y="652"/>
+      <point x="326" y="642" type="curve" smooth="yes"/>
+      <point x="326" y="631"/>
+      <point x="297" y="581"/>
+      <point x="238" y="490" type="curve"/>
+      <point x="231" y="478"/>
+      <point x="224" y="472"/>
+      <point x="218" y="472" type="curve" smooth="yes"/>
+      <point x="212" y="472"/>
+      <point x="205" y="478"/>
+      <point x="198" y="490" type="curve"/>
+      <point x="139" y="581"/>
+      <point x="110" y="631"/>
+      <point x="110" y="642" type="curve" smooth="yes"/>
+      <point x="110" y="652"/>
+      <point x="113" y="657"/>
+      <point x="120" y="657" type="curve" smooth="yes"/>
+      <point x="132" y="657"/>
+      <point x="164" y="621"/>
+      <point x="215" y="550" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="309" y="414"/>
+      <point x="358" y="378"/>
+      <point x="358" y="321" type="curve" smooth="yes"/>
+      <point x="358" y="264"/>
+      <point x="326" y="257"/>
+      <point x="281" y="257" type="curve" smooth="yes"/>
+      <point x="117" y="257" type="line" smooth="yes"/>
+      <point x="98" y="257"/>
+      <point x="92" y="252"/>
+      <point x="92" y="220" type="curve" smooth="yes"/>
+      <point x="92" y="127"/>
+      <point x="157" y="46"/>
+      <point x="241" y="46" type="curve" smooth="yes"/>
+      <point x="282" y="46"/>
+      <point x="314" y="61"/>
+      <point x="337" y="90" type="curve"/>
+      <point x="342" y="95"/>
+      <point x="345" y="97"/>
+      <point x="348" y="97" type="curve" smooth="yes"/>
+      <point x="355" y="97"/>
+      <point x="357" y="88"/>
+      <point x="352" y="71" type="curve" smooth="yes"/>
+      <point x="343" y="36"/>
+      <point x="282" y="-14"/>
+      <point x="194" y="-14" type="curve" smooth="yes"/>
+      <point x="106" y="-14"/>
+      <point x="30" y="76"/>
+      <point x="30" y="198" type="curve" smooth="yes"/>
+      <point x="30" y="320"/>
+      <point x="117" y="414"/>
+      <point x="229" y="414" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="295" y="358"/>
+      <point x="257" y="383"/>
+      <point x="210" y="383" type="curve" smooth="yes"/>
+      <point x="162" y="383"/>
+      <point x="111" y="334"/>
+      <point x="111" y="303" type="curve" smooth="yes"/>
+      <point x="111" y="293"/>
+      <point x="117" y="288"/>
+      <point x="130" y="288" type="curve" smooth="yes"/>
+      <point x="212" y="288" type="line" smooth="yes"/>
+      <point x="243" y="288"/>
+      <point x="268" y="290"/>
+      <point x="285" y="293" type="curve" smooth="yes"/>
+      <point x="292" y="294"/>
+      <point x="295" y="303"/>
+      <point x="295" y="322" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecaron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>388</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

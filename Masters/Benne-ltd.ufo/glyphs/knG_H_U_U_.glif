@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knGHUU" format="1">
+  <advance width="1404"/>
+  <outline>
+    <contour>
+      <point x="894" y="-14"/>
+      <point x="927" y="73"/>
+      <point x="927" y="231" type="curve" smooth="yes"/>
+      <point x="927" y="371"/>
+      <point x="1003" y="441"/>
+      <point x="1110" y="441" type="curve" smooth="yes"/>
+      <point x="1225" y="441"/>
+      <point x="1324" y="363"/>
+      <point x="1324" y="235" type="curve" smooth="yes"/>
+      <point x="1324" y="129"/>
+      <point x="1262" y="68"/>
+      <point x="1172" y="68" type="curve" smooth="yes"/>
+      <point x="1098" y="68"/>
+      <point x="1054" y="113"/>
+      <point x="1054" y="172" type="curve" smooth="yes"/>
+      <point x="1054" y="212"/>
+      <point x="1075" y="237"/>
+      <point x="1087" y="237" type="curve" smooth="yes"/>
+      <point x="1092" y="237"/>
+      <point x="1094" y="233"/>
+      <point x="1094" y="227" type="curve" smooth="yes"/>
+      <point x="1094" y="191"/>
+      <point x="1115" y="165"/>
+      <point x="1148" y="165" type="curve" smooth="yes"/>
+      <point x="1183" y="165"/>
+      <point x="1209" y="194"/>
+      <point x="1209" y="229" type="curve" smooth="yes"/>
+      <point x="1209" y="262"/>
+      <point x="1184" y="299"/>
+      <point x="1129" y="299" type="curve" smooth="yes"/>
+      <point x="1057" y="299"/>
+      <point x="1017" y="235"/>
+      <point x="1016" y="157" type="curve" smooth="yes"/>
+      <point x="1017" y="58"/>
+      <point x="1077" y="-14"/>
+      <point x="1173" y="-14" type="curve" smooth="yes"/>
+      <point x="1285" y="-14"/>
+      <point x="1359" y="92"/>
+      <point x="1359" y="238" type="curve" smooth="yes"/>
+      <point x="1359" y="402"/>
+      <point x="1249" y="519"/>
+      <point x="1101" y="519" type="curve" smooth="yes"/>
+      <point x="979" y="519"/>
+      <point x="890" y="423"/>
+      <point x="890" y="248" type="curve" smooth="yes"/>
+      <point x="890" y="116"/>
+      <point x="854" y="71"/>
+      <point x="786" y="71" type="curve" smooth="yes"/>
+      <point x="700" y="71"/>
+      <point x="652" y="145"/>
+      <point x="621" y="222" type="curve"/>
+      <point x="621" y="145" type="line"/>
+      <point x="646" y="65"/>
+      <point x="717" y="-14"/>
+      <point x="804" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <component base="knGHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knGHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knUU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knGHUU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1404</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

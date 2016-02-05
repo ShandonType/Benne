@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knCHU" format="1">
+  <advance width="1117"/>
+  <outline>
+    <contour>
+      <point x="977" y="-14"/>
+      <point x="1057" y="95"/>
+      <point x="1057" y="242" type="curve" smooth="yes"/>
+      <point x="1057" y="415"/>
+      <point x="961" y="513"/>
+      <point x="890" y="513" type="curve" smooth="yes"/>
+      <point x="859" y="513"/>
+      <point x="842" y="493"/>
+      <point x="842" y="470" type="curve" smooth="yes"/>
+      <point x="842" y="451"/>
+      <point x="854" y="435"/>
+      <point x="870" y="430" type="curve" smooth="yes"/>
+      <point x="893" y="423"/>
+      <point x="914" y="428"/>
+      <point x="938" y="420" type="curve" smooth="yes"/>
+      <point x="975" y="407"/>
+      <point x="1022" y="344"/>
+      <point x="1022" y="255" type="curve" smooth="yes"/>
+      <point x="1022" y="137"/>
+      <point x="952" y="71"/>
+      <point x="864" y="71" type="curve" smooth="yes"/>
+      <point x="781" y="71"/>
+      <point x="735" y="121"/>
+      <point x="707" y="184" type="curve"/>
+      <point x="690" y="163" type="line"/>
+      <point x="703" y="81"/>
+      <point x="771" y="-14"/>
+      <point x="864" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <component base="knCHA"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knCHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knCHU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1117</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKHAc2.following" format="1">
+  <advance width="704"/>
+  <outline>
+    <contour>
+      <point x="554" y="-109"/>
+      <point x="519" y="-24"/>
+      <point x="484" y="25" type="curve" smooth="yes"/>
+      <point x="472" y="43"/>
+      <point x="461" y="54"/>
+      <point x="446" y="54" type="curve" smooth="yes"/>
+      <point x="432" y="54"/>
+      <point x="423" y="44"/>
+      <point x="423" y="28" type="curve" smooth="yes"/>
+      <point x="423" y="13"/>
+      <point x="432" y="-1"/>
+      <point x="450" y="-14" type="curve" smooth="yes"/>
+      <point x="490" y="-44"/>
+      <point x="529" y="-114"/>
+      <point x="529" y="-216" type="curve" smooth="yes"/>
+      <point x="529" y="-326"/>
+      <point x="484" y="-359"/>
+      <point x="435" y="-359" type="curve" smooth="yes"/>
+      <point x="354" y="-359"/>
+      <point x="313" y="-267"/>
+      <point x="214" y="-267" type="curve" smooth="yes"/>
+      <point x="163" y="-267"/>
+      <point x="140" y="-291"/>
+      <point x="140" y="-333" type="curve" smooth="yes"/>
+      <point x="140" y="-387"/>
+      <point x="177" y="-412"/>
+      <point x="229" y="-412" type="curve" smooth="yes"/>
+      <point x="315" y="-412"/>
+      <point x="380" y="-343"/>
+      <point x="380" y="-222" type="curve" smooth="yes"/>
+      <point x="380" y="-118"/>
+      <point x="333" y="-75"/>
+      <point x="276" y="-75" type="curve" smooth="yes"/>
+      <point x="226" y="-75"/>
+      <point x="193" y="-108"/>
+      <point x="193" y="-154" type="curve" smooth="yes"/>
+      <point x="193" y="-191"/>
+      <point x="215" y="-215"/>
+      <point x="248" y="-215" type="curve" smooth="yes"/>
+      <point x="277" y="-215"/>
+      <point x="294" y="-196"/>
+      <point x="294" y="-174" type="curve" smooth="yes"/>
+      <point x="294" y="-155"/>
+      <point x="281" y="-146"/>
+      <point x="263" y="-146" type="curve" smooth="yes"/>
+      <point x="244" y="-146"/>
+      <point x="234" y="-159"/>
+      <point x="234" y="-178" type="curve" smooth="yes"/>
+      <point x="234" y="-181"/>
+      <point x="233" y="-181"/>
+      <point x="232" y="-181" type="curve" smooth="yes"/>
+      <point x="225" y="-181"/>
+      <point x="219" y="-172"/>
+      <point x="219" y="-158" type="curve" smooth="yes"/>
+      <point x="219" y="-136"/>
+      <point x="238" y="-116"/>
+      <point x="273" y="-116" type="curve" smooth="yes"/>
+      <point x="308" y="-116"/>
+      <point x="350" y="-135"/>
+      <point x="350" y="-222" type="curve" smooth="yes"/>
+      <point x="350" y="-313"/>
+      <point x="303" y="-359"/>
+      <point x="226" y="-359" type="curve" smooth="yes"/>
+      <point x="189" y="-359"/>
+      <point x="171" y="-349"/>
+      <point x="171" y="-327" type="curve" smooth="yes"/>
+      <point x="171" y="-305"/>
+      <point x="192" y="-295"/>
+      <point x="217" y="-295" type="curve" smooth="yes"/>
+      <point x="300" y="-295"/>
+      <point x="354" y="-412"/>
+      <point x="445" y="-412" type="curve" smooth="yes"/>
+      <point x="505" y="-412"/>
+      <point x="554" y="-361"/>
+      <point x="554" y="-224" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knKHAc2.following</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>48</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

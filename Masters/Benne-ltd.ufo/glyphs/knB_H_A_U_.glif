@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knBHAU" format="1">
+  <advance width="1116"/>
+  <outline>
+    <contour>
+      <point x="275" y="-14"/>
+      <point x="343" y="43"/>
+      <point x="366" y="126" type="curve"/>
+      <point x="368" y="126" type="line"/>
+      <point x="391" y="43"/>
+      <point x="459" y="-14"/>
+      <point x="530" y="-14" type="curve" smooth="yes"/>
+      <point x="632" y="-14"/>
+      <point x="686" y="84"/>
+      <point x="686" y="171" type="curve" smooth="yes"/>
+      <point x="686" y="360"/>
+      <point x="543" y="470"/>
+      <point x="407" y="470" type="curve"/>
+      <point x="397" y="434" type="line"/>
+      <point x="549" y="424"/>
+      <point x="648" y="301"/>
+      <point x="648" y="203" type="curve" smooth="yes"/>
+      <point x="648" y="121"/>
+      <point x="599" y="71"/>
+      <point x="523" y="71" type="curve" smooth="yes"/>
+      <point x="450" y="71"/>
+      <point x="384" y="146"/>
+      <point x="371" y="221" type="curve"/>
+      <point x="362" y="221" type="line"/>
+      <point x="348" y="145"/>
+      <point x="283" y="71"/>
+      <point x="210" y="71" type="curve" smooth="yes"/>
+      <point x="157" y="71"/>
+      <point x="130" y="114"/>
+      <point x="130" y="156" type="curve" smooth="yes"/>
+      <point x="130" y="187"/>
+      <point x="155" y="223"/>
+      <point x="188" y="257" type="curve" smooth="yes"/>
+      <point x="228" y="298"/>
+      <point x="277" y="349"/>
+      <point x="277" y="399" type="curve" smooth="yes"/>
+      <point x="277" y="465"/>
+      <point x="229" y="519"/>
+      <point x="153" y="519" type="curve" smooth="yes"/>
+      <point x="78" y="519"/>
+      <point x="39" y="465"/>
+      <point x="39" y="413" type="curve" smooth="yes"/>
+      <point x="39" y="381"/>
+      <point x="47" y="352"/>
+      <point x="68" y="330" type="curve"/>
+      <point x="88" y="345" type="line"/>
+      <point x="81" y="360"/>
+      <point x="78" y="372"/>
+      <point x="78" y="383" type="curve" smooth="yes"/>
+      <point x="78" y="421"/>
+      <point x="101" y="452"/>
+      <point x="153" y="452" type="curve" smooth="yes"/>
+      <point x="190" y="452"/>
+      <point x="224" y="427"/>
+      <point x="224" y="385" type="curve" smooth="yes"/>
+      <point x="224" y="344"/>
+      <point x="193" y="311"/>
+      <point x="161" y="278" type="curve" smooth="yes"/>
+      <point x="122" y="238"/>
+      <point x="79" y="193"/>
+      <point x="79" y="125" type="curve" smooth="yes"/>
+      <point x="79" y="38"/>
+      <point x="140" y="-14"/>
+      <point x="207" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="394" y="-220"/>
+      <point x="419" y="-201"/>
+      <point x="419" y="-161" type="curve" smooth="yes"/>
+      <point x="419" y="-117"/>
+      <point x="390" y="-104"/>
+      <point x="376" y="16" type="curve"/>
+      <point x="360" y="16" type="line"/>
+      <point x="347" y="-104"/>
+      <point x="316" y="-117"/>
+      <point x="316" y="-161" type="curve" smooth="yes"/>
+      <point x="316" y="-197"/>
+      <point x="341" y="-220"/>
+      <point x="368" y="-220" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="551" y="434" type="line"/>
+      <point x="551" y="509" type="line"/>
+      <point x="360" y="509" type="line"/>
+      <point x="360" y="434" type="line"/>
+    </contour>
+    <component base="knmAU" xOffset="736"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knBHA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knBHAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1116</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

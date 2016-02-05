@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNGAc2" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-126" y="-412"/>
+      <point x="-84" y="-376"/>
+      <point x="-69" y="-323" type="curve"/>
+      <point x="-65" y="-323" type="line"/>
+      <point x="-51" y="-376"/>
+      <point x="-9" y="-412"/>
+      <point x="40" y="-412" type="curve" smooth="yes"/>
+      <point x="82" y="-412"/>
+      <point x="115" y="-385"/>
+      <point x="115" y="-333" type="curve" smooth="yes"/>
+      <point x="115" y="-295"/>
+      <point x="97" y="-261"/>
+      <point x="75" y="-243" type="curve"/>
+      <point x="59" y="-257" type="line"/>
+      <point x="75" y="-271"/>
+      <point x="84" y="-289"/>
+      <point x="84" y="-311" type="curve" smooth="yes"/>
+      <point x="84" y="-340"/>
+      <point x="68" y="-359"/>
+      <point x="36" y="-359" type="curve" smooth="yes"/>
+      <point x="-14" y="-359"/>
+      <point x="-51" y="-312"/>
+      <point x="-60" y="-263" type="curve"/>
+      <point x="-75" y="-263" type="line"/>
+      <point x="-83" y="-312"/>
+      <point x="-120" y="-359"/>
+      <point x="-168" y="-359" type="curve" smooth="yes"/>
+      <point x="-198" y="-359"/>
+      <point x="-216" y="-340"/>
+      <point x="-216" y="-317" type="curve" smooth="yes"/>
+      <point x="-216" y="-292"/>
+      <point x="-196" y="-269"/>
+      <point x="-175" y="-244" type="curve" smooth="yes"/>
+      <point x="-150" y="-215"/>
+      <point x="-123" y="-184"/>
+      <point x="-123" y="-144" type="curve" smooth="yes"/>
+      <point x="-123" y="-109"/>
+      <point x="-145" y="-75"/>
+      <point x="-197" y="-75" type="curve" smooth="yes"/>
+      <point x="-250" y="-75"/>
+      <point x="-275" y="-109"/>
+      <point x="-275" y="-149" type="curve" smooth="yes"/>
+      <point x="-275" y="-169"/>
+      <point x="-269" y="-182"/>
+      <point x="-256" y="-195" type="curve"/>
+      <point x="-243" y="-186" type="line"/>
+      <point x="-246" y="-181"/>
+      <point x="-250" y="-172"/>
+      <point x="-250" y="-160" type="curve" smooth="yes"/>
+      <point x="-250" y="-135"/>
+      <point x="-234" y="-119"/>
+      <point x="-202" y="-119" type="curve" smooth="yes"/>
+      <point x="-170" y="-119"/>
+      <point x="-157" y="-135"/>
+      <point x="-157" y="-160" type="curve" smooth="yes"/>
+      <point x="-157" y="-182"/>
+      <point x="-174" y="-201"/>
+      <point x="-194" y="-223" type="curve" smooth="yes"/>
+      <point x="-220" y="-251"/>
+      <point x="-249" y="-284"/>
+      <point x="-249" y="-331" type="curve" smooth="yes"/>
+      <point x="-249" y="-379"/>
+      <point x="-219" y="-412"/>
+      <point x="-174" y="-412" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-27" y="-228"/>
+      <point x="-13" y="-216"/>
+      <point x="-13" y="-194" type="curve" smooth="yes"/>
+      <point x="-13" y="-172"/>
+      <point x="-27" y="-160"/>
+      <point x="-48" y="-160" type="curve" smooth="yes"/>
+      <point x="-69" y="-160"/>
+      <point x="-82" y="-172"/>
+      <point x="-82" y="-194" type="curve" smooth="yes"/>
+      <point x="-82" y="-216"/>
+      <point x="-69" y="-228"/>
+      <point x="-48" y="-228" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-95" y="-141"/>
+      <point x="-47" y="-109"/>
+      <point x="10" y="-109" type="curve" smooth="yes"/>
+      <point x="52" y="-109"/>
+      <point x="73" y="-127"/>
+      <point x="73" y="-157" type="curve" smooth="yes"/>
+      <point x="73" y="-176"/>
+      <point x="65" y="-189"/>
+      <point x="56" y="-197" type="curve"/>
+      <point x="69" y="-210" type="line"/>
+      <point x="87" y="-195"/>
+      <point x="99" y="-172"/>
+      <point x="99" y="-142" type="curve" smooth="yes"/>
+      <point x="99" y="-100"/>
+      <point x="77" y="-65"/>
+      <point x="20" y="-65" type="curve" smooth="yes"/>
+      <point x="-55" y="-65"/>
+      <point x="-118" y="-127"/>
+      <point x="-151" y="-185" type="curve"/>
+      <point x="-151" y="-215" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knNGAc2</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>0</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

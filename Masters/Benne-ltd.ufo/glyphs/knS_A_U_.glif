@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSAU" format="1">
+  <advance width="1044"/>
+  <outline>
+    <contour>
+      <point x="110" y="120"/>
+      <point x="162" y="170"/>
+      <point x="228" y="170" type="curve" smooth="yes"/>
+      <point x="375" y="170"/>
+      <point x="397" y="-14"/>
+      <point x="510" y="-14" type="curve" smooth="yes"/>
+      <point x="587" y="-14"/>
+      <point x="620" y="62"/>
+      <point x="620" y="150" type="curve" smooth="yes"/>
+      <point x="620" y="237"/>
+      <point x="591" y="319"/>
+      <point x="531" y="377" type="curve"/>
+      <point x="508" y="360" type="line"/>
+      <point x="550" y="310"/>
+      <point x="576" y="249"/>
+      <point x="576" y="188" type="curve" smooth="yes"/>
+      <point x="576" y="114"/>
+      <point x="546" y="71"/>
+      <point x="497" y="71" type="curve" smooth="yes"/>
+      <point x="379" y="71"/>
+      <point x="362" y="247"/>
+      <point x="229" y="247" type="curve" smooth="yes"/>
+      <point x="134" y="247"/>
+      <point x="74" y="144"/>
+      <point x="74" y="-6" type="curve"/>
+      <point x="103" y="-14" type="line"/>
+    </contour>
+    <contour>
+      <point x="355" y="288"/>
+      <point x="377" y="314"/>
+      <point x="377" y="347" type="curve" smooth="yes"/>
+      <point x="377" y="380"/>
+      <point x="355" y="404"/>
+      <point x="319" y="404" type="curve" smooth="yes"/>
+      <point x="283" y="404"/>
+      <point x="261" y="380"/>
+      <point x="261" y="347" type="curve" smooth="yes"/>
+      <point x="261" y="314"/>
+      <point x="283" y="288"/>
+      <point x="319" y="288" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="482" y="434" type="line"/>
+      <point x="482" y="509" type="line"/>
+      <point x="45" y="509" type="line"/>
+      <point x="45" y="434" type="line"/>
+    </contour>
+    <component base="knmAU" xOffset="664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knSA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knSAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1044</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

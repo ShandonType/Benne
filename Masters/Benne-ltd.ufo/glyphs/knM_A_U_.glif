@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knMAU" format="1">
+  <advance width="1417"/>
+  <outline>
+    <contour>
+      <point x="851" y="434" type="line" smooth="yes"/>
+      <point x="932" y="434"/>
+      <point x="986" y="480"/>
+      <point x="986" y="552" type="curve" smooth="yes"/>
+      <point x="986" y="607"/>
+      <point x="955" y="648"/>
+      <point x="912" y="664" type="curve"/>
+      <point x="897" y="644" type="line"/>
+      <point x="921" y="635"/>
+      <point x="943" y="610"/>
+      <point x="943" y="576" type="curve" smooth="yes"/>
+      <point x="943" y="536"/>
+      <point x="912" y="509"/>
+      <point x="851" y="509" type="curve" smooth="yes"/>
+      <point x="791" y="509" type="line"/>
+      <point x="791" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="942" y="137"/>
+      <point x="872" y="71"/>
+      <point x="786" y="71" type="curve" smooth="yes"/>
+      <point x="705" y="71"/>
+      <point x="640" y="132"/>
+      <point x="605" y="235" type="curve"/>
+      <point x="609" y="129" type="line"/>
+      <point x="645" y="45"/>
+      <point x="711" y="-14"/>
+      <point x="784" y="-14" type="curve" smooth="yes"/>
+      <point x="897" y="-14"/>
+      <point x="977" y="95"/>
+      <point x="977" y="242" type="curve"/>
+      <point x="975" y="415"/>
+      <point x="883" y="509"/>
+      <point x="810" y="509" type="curve"/>
+      <point x="804" y="434" type="line"/>
+      <point x="892" y="434"/>
+      <point x="940" y="345"/>
+      <point x="942" y="252" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="241" y="-14"/>
+      <point x="316" y="43"/>
+      <point x="339" y="126" type="curve"/>
+      <point x="341" y="126" type="line"/>
+      <point x="364" y="43"/>
+      <point x="433" y="-14"/>
+      <point x="502" y="-14" type="curve" smooth="yes"/>
+      <point x="593" y="-14"/>
+      <point x="631" y="84"/>
+      <point x="631" y="178" type="curve" smooth="yes"/>
+      <point x="631" y="360"/>
+      <point x="488" y="474"/>
+      <point x="352" y="474" type="curve"/>
+      <point x="342" y="434" type="line"/>
+      <point x="494" y="424"/>
+      <point x="593" y="311"/>
+      <point x="593" y="195" type="curve" smooth="yes"/>
+      <point x="593" y="121"/>
+      <point x="554" y="71"/>
+      <point x="495" y="71" type="curve" smooth="yes"/>
+      <point x="423" y="71"/>
+      <point x="358" y="145"/>
+      <point x="344" y="221" type="curve"/>
+      <point x="335" y="221" type="line"/>
+      <point x="321" y="145"/>
+      <point x="251" y="71"/>
+      <point x="175" y="71" type="curve" smooth="yes"/>
+      <point x="125" y="71"/>
+      <point x="90" y="104"/>
+      <point x="90" y="155" type="curve" smooth="yes"/>
+      <point x="90" y="201"/>
+      <point x="119" y="227"/>
+      <point x="161" y="227" type="curve" smooth="yes"/>
+      <point x="186" y="227"/>
+      <point x="211" y="217"/>
+      <point x="222" y="193" type="curve"/>
+      <point x="238" y="208" type="line"/>
+      <point x="225" y="250"/>
+      <point x="201" y="287"/>
+      <point x="152" y="287" type="curve" smooth="yes"/>
+      <point x="93" y="287"/>
+      <point x="50" y="232"/>
+      <point x="50" y="147" type="curve" smooth="yes"/>
+      <point x="50" y="56"/>
+      <point x="99" y="-14"/>
+      <point x="174" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="493" y="434" type="line" smooth="yes"/>
+      <point x="574" y="434"/>
+      <point x="628" y="480"/>
+      <point x="628" y="552" type="curve" smooth="yes"/>
+      <point x="628" y="607"/>
+      <point x="597" y="648"/>
+      <point x="554" y="664" type="curve"/>
+      <point x="539" y="644" type="line"/>
+      <point x="563" y="635"/>
+      <point x="585" y="610"/>
+      <point x="585" y="576" type="curve" smooth="yes"/>
+      <point x="585" y="536"/>
+      <point x="554" y="509"/>
+      <point x="493" y="509" type="curve" smooth="yes"/>
+      <point x="50" y="509" type="line"/>
+      <point x="50" y="434" type="line"/>
+    </contour>
+    <component base="knmAU" xOffset="1037"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knMA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmAU</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knMAU</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1417</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.842</real>
+        <real>0.674</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
