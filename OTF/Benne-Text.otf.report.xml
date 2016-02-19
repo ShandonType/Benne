@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="fval.xsl"?>
+<FontValidatorReport RunDateTime="10 February 2016 12:17" MachineName="John-Daniels-iMac.local">
+<FontFile FileName="Benne-Text.otf" FileNameAndPath="/Users/John/GitHub/Benne/OTF/Benne-Text.otf">
+<Report ErrorType="I" ErrorCode="I0004" Message="The file begins with an Offset Table (file contains a single font)" />
+<Font FontIndex="0">
+<FontInfo FontName="Benne-Text" FontVersion="Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775" FontDate="05/02/2016" />
+<Report ErrorType="P" ErrorCode="P0011" Message="The numTables field is non-zero" Details="12" TestName="_OFFSET_numTables" />
+<Report ErrorType="P" ErrorCode="P0010" Message="The searchRange, entrySelector, and rangeShift fields are all valid" TestName="_OFFSET_BinarySearchFields" />
+<Report ErrorType="P" ErrorCode="P0032" Message="The directory entry tags are in ascending order" />
+<Report ErrorType="P" ErrorCode="P0031" Message="The directory entry tag names are valid" />
+<Report ErrorType="P" ErrorCode="P0030" Message="The directory entry table offsets are all multiples of 4" />
+<Report ErrorType="P" ErrorCode="P0020" Message="All required tables are present" />
+<Report ErrorType="W" ErrorCode="W0022" Message="Recommended table is missing" Details="DSIG" />
+<Report ErrorType="P" ErrorCode="P0022" Message="No unnecessary tables are present" />
+<Report ErrorType="W" ErrorCode="W0020" Message="Tables are not in optimal order" Details="table 'maxp' precedes table 'head'" />
+<TableEntry Tag="CFF " Offset="0x00002d80" Length="0x0001532d" Checksum="0x9f42aa72" CodeFriendlyTag="CFF_">
+<Report ErrorType="I" ErrorCode="I0201" Message="The CFF major.minor version for this table" Details="1.0" />
+<Report ErrorType="I" ErrorCode="I0200" Message="Validation for the CFF table is not implemented" />
+</TableEntry>
+<TableEntry Tag="GDEF" Offset="0x000180b0" Length="0x00000070" Checksum="0x14c5159c" CodeFriendlyTag="GDEF">
+<Report ErrorType="P" ErrorCode="P4006" Message="The version number is 0x00010000" TestName="GDEF_Version" />
+<Report ErrorType="P" ErrorCode="P4002" Message="All header offsets point within the table" TestName="GDEF_HeaderOffsets" />
+</TableEntry>
+<TableEntry Tag="GPOS" Offset="0x00018120" Length="0x00000b3a" Checksum="0xf38cec73" CodeFriendlyTag="GPOS">
+<Report ErrorType="P" ErrorCode="P4132" Message="The version number is 0x00010000" TestName="GPOS_Version" />
+<Report ErrorType="P" ErrorCode="P4115" Message="All header offsets point within the table" TestName="GPOS_HeaderOffsets" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[1](knd2), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[1](knd2), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[2](knda), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[2](knda), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5800" Message="The ScriptList Table is valid" Details="ScriptList" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[0](dist), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[1](dist), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[2](dist), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[3](dist), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5300" Message="The FeatureList table is valid" Details="FeatureList" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[0]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[1]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[2]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[3]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[4]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[5]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[6]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[7]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[8]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[9]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[10]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[11]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[12]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[13]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[14]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[15]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[16]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[17]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[18]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[19]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[20]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[21]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[22]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[23]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[24]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[25]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[26]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[27]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[28]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[29]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[30]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[31]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[32]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[33]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[34]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[35]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[36]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[37]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[38]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[39]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[40]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[41]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[42]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[43]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[44]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[45]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[46]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[47]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[48]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[49]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[50]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[51]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[52]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[53]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[54]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[55]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[56]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[57]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[58]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[59]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[60]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[61]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[62]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[63]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[64]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[65]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[66]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[67]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[68]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[69]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[70]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[71]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[72]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[73]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[74]" />
+<Report ErrorType="P" ErrorCode="P4125" Message="The PairSet table is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1), PairSet[75]" />
+<Report ErrorType="P" ErrorCode="P4124" Message="The PairPos subtable is valid" Details="LookupList, Lookup[0], SubTable[0](PairPos, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4124" Message="The PairPos subtable is valid" Details="LookupList, Lookup[0], SubTable[1](PairPos, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4124" Message="The PairPos subtable is valid" Details="LookupList, Lookup[0], SubTable[2](PairPos, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4124" Message="The PairPos subtable is valid" Details="LookupList, Lookup[0], SubTable[3](PairPos, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
+</TableEntry>
+<TableEntry Tag="GSUB" Offset="0x00018c5c" Length="0x000015b8" Checksum="0x37a7892f" CodeFriendlyTag="GSUB">
+<Report ErrorType="P" ErrorCode="P4208" Message="The version number is 0x00010000" TestName="GSUB_Version" />
+<Report ErrorType="P" ErrorCode="P4204" Message="All header offsets point within the table" TestName="GSUB_HeaderOffsets" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[0](DFLT), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[1](knd2), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[1](knd2), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[2](knda), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[2](knda), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, DefaultLangSysTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, LangSysRecord[0], LangSysTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, LangSysRecord[1], LangSysTable" />
+<Report ErrorType="P" ErrorCode="P5500" Message="The LangSysTable is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable, LangSysRecord[2], LangSysTable" />
+<Report ErrorType="P" ErrorCode="P5900" Message="The Script Table is valid" Details="ScriptList, ScriptRecord[3](latn), ScriptTable" />
+<Report ErrorType="P" ErrorCode="P5800" Message="The ScriptList Table is valid" Details="ScriptList" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[0](aalt), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[1](aalt), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[2](aalt), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[3](aalt), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[4](blwf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[5](blwf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[6](blwf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[7](blwf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[8](c2sc), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[9](c2sc), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[10](c2sc), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[11](c2sc), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[12](dlig), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[13](dlig), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[14](dlig), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[15](dlig), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[16](frac), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[17](frac), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[18](frac), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[19](frac), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[20](haln), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[21](haln), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[22](haln), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[23](haln), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[24](locl), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[25](locl), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[26](locl), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[27](ordn), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[28](ordn), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[29](ordn), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[30](ordn), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[31](pres), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[32](pres), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[33](pres), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[34](pres), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[35](rphf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[36](rphf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[37](rphf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[38](rphf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[39](sinf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[40](sinf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[41](sinf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[42](sinf), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[43](smcp), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[44](smcp), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[45](smcp), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[46](smcp), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[47](subs), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[48](subs), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[49](subs), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[50](subs), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[51](sups), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[52](sups), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[53](sups), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5400" Message="The Feature table is valid" Details="FeatureList, FeatureRecord[54](sups), FeatureTable" />
+<Report ErrorType="P" ErrorCode="P5300" Message="The FeatureList table is valid" Details="FeatureList" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[0], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4200" Message="The AlternateSubst subtable is valid" Details="LookupList, Lookup[1], SubTable[0](AlternateSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[2], SubTable[0](ChainContextSubst, fmt 3)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[2], SubTable[1](ChainContextSubst, fmt 3)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[3], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[4], SubTable[0](SingleSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[5], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[6], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[7], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[8], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[9], SubTable[0](ChainContextSubst, fmt 3)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[9], SubTable[1](ChainContextSubst, fmt 3)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[10], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[11], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[12], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[13], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[14], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[15], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[16], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4201" Message="The ChainContextSubst subtable is valid" Details="LookupList, Lookup[17], SubTable[0](ChainContextSubst, fmt 3)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[18], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4205" Message="The LigatureSubst subtable is valid" Details="LookupList, Lookup[19], SubTable[0](LigatureSubst, fmt 1)" />
+<Report ErrorType="P" ErrorCode="P4207" Message="The SingleSubst subtable is valid" Details="LookupList, Lookup[20], SubTable[0](SingleSubst, fmt 2)" />
+<Report ErrorType="P" ErrorCode="P5600" Message="The LookupList table is valid" Details="LookupList" />
+</TableEntry>
+<TableEntry Tag="OS/2" Offset="0x0000101c" Length="0x00000060" Checksum="0x68d5884d" CodeFriendlyTag="OS_2">
+<Report ErrorType="W" ErrorCode="W2106" Message="The version number is valid, but less than 5" Details="3" TestName="OS_2_Version" />
+<Report ErrorType="P" ErrorCode="P2112" Message="The table length matches the expected length for this version" TestName="OS_2_TableLength" />
+<Report ErrorType="I" ErrorCode="I0050" Message="Cannot perform test since this is a CFF font" Details="test = OS/2_xAvgCharWidth" TestName="OS_2_xAvgCharWidth" />
+<Report ErrorType="P" ErrorCode="P2118" Message="The usWeightClass is a valid value" Details="400" TestName="OS_2_WeightClass" />
+<Report ErrorType="P" ErrorCode="P2119" Message="The width class is a valid value" Details="5" TestName="OS_2_WidthClass" />
+<Report ErrorType="P" ErrorCode="P2103" Message="The fsType field is valid" Details="0x0008, Editable embedding" TestName="OS_2_fsType" />
+<Report ErrorType="P" ErrorCode="P2109" Message="All subscript and superscript values appear valid" TestName="OS_2_SubscriptSuperscript" />
+<Report ErrorType="P" ErrorCode="P2108" Message="The yStrikeoutSize and yStrikeoutPosition appear valid" TestName="OS_2_Strikeout" />
+<Report ErrorType="P" ErrorCode="P2107" Message="The sFamilyClass Class ID and Subclass ID values are in a valid range" TestName="OS_2_FamilyClass" />
+<Report ErrorType="P" ErrorCode="P2104" Message="All panose values are in a valid range" TestName="OS_2_Panose" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Latin Extended-B', 2 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Spacing Modifier Letters', 3 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Greek', 3 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'General Punctuation', 24 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Superscripts and Subscripts', 6 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Currency Symbols', 4 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Letterlike Symbols', 10 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="10 characters are present in the ranges: Arrows, Supplementary Arrows A, Supplementary Arrows B" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="21 characters are present in the ranges: Mathematical Operators, Supplemental Mathematical Operators, Mathematical Symbols A, Mathematical Symbols B" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Miscellaneous Technical', 1 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Enclosed Alphanumerics', 26 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Geometric Shapes', 2 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Miscellaneous Symbols', 2 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Alphabetic Presentation Forms', 2 characters are present" />
+<Report ErrorType="I" ErrorCode="I2100" Message="Characters in a unicode range are present in the font, but not indicated in ulUnicodeRange fields" Details="'Arabic Presentation Forms-B', 1 characters are present" />
+<Report ErrorType="P" ErrorCode="P2113" Message="The Unicode Range fields' bits are all allowable values" />
+<Report ErrorType="P" ErrorCode="P2102" Message="The fsSelection field appears to be valid" TestName="OS_2_fsSelection" />
+<Report ErrorType="E" ErrorCode="E2131" Message="The usLastCharIndex is not valid" Details="actual = 0xffff, calculated = 0xfeff" TestName="OS_2_CharIndexes" />
+<Report ErrorType="P" ErrorCode="P2123" Message="The sTypoAscender and sTypoDescender fields are reasonable values" Details="sTypoAscender = 630, sTypoDescender = -370" TestName="OS_2_TypoMetrics" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #0, Latin 1 (13 missing, first ten missing chars are: U0060 U02C6 U2030 U02DC U00A0 U00A1 U00A8 U00AF U00B2 U00B3)" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #1, Latin 2 (13 missing, first ten missing chars are: U0060 U2030 U0165 U00A0 U02C7 U02D8 U00A8 U02DB U00B4 U00B8)" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #4, Turkish (13 missing, first ten missing chars are: U0060 U02C6 U2030 U02DC U00A0 U00A1 U00A8 U00AF U00B2 U00B3)" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #7, Baltic (13 missing, first ten missing chars are: U0060 U2030 U00A8 U02C7 U00B8 U00AF U02DB U00A0 U00B2 U00B3)" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #8, Vietnamese (22 missing, first ten missing chars are: U0060 U02C6 U2030 U02DC U00A0 U00A1 U00A8 U00AF U00B2 U00B3)" />
+<Report ErrorType="W" ErrorCode="W2101" Message="A CodePage bit is set in ulCodePageRange, but the font is missing some of the printable characters from that codepage" Details="bit #29, Mac character set (26 missing, first ten missing chars are: U0060 U00B4 U00A8 U221E U2202 U2211 U220F U03C0 U222B U00A1)" />
+<Report ErrorType="P" ErrorCode="P2101" Message="The CodePage Range fields' bits are all allowable values" />
+<Report ErrorType="P" ErrorCode="P2110" Message="The sxHeight field is nonzero" Details="404" TestName="OS_2_sxHeight" />
+<Report ErrorType="P" ErrorCode="P2105" Message="The sCapHeight field is nonzero" Details="655" TestName="OS_2_sCapHeight" />
+<Report ErrorType="P" ErrorCode="P2116" Message="The usDefaultChar field is zero" TestName="OS_2_usDefaultChar" />
+<Report ErrorType="P" ErrorCode="P2114" Message="The usBreakChar is mapped to a glyf" TestName="OS_2_usBreakChar" />
+<Report ErrorType="P" ErrorCode="P2124" Message="The usMaxContext field matches the calculated value" Details="3" TestName="OS_2_usMaxContext" />
+</TableEntry>
+<TableEntry Tag="cmap" Offset="0x00001570" Length="0x000017ee" Checksum="0x528ef8c0" CodeFriendlyTag="cmap">
+<Report ErrorType="P" ErrorCode="P0312" Message="The table version number is 0" TestName="cmap_Version" />
+<Report ErrorType="P" ErrorCode="P0307" Message="Each subtable offset is within the table" TestName="cmap_SubtableOffset" />
+<Report ErrorType="P" ErrorCode="P0306" Message="Each subtable length is within the table" TestName="cmap_SubtableLength" />
+<Report ErrorType="P" ErrorCode="P0309" Message="The subtables are in the correct order" TestName="cmap_SubtableSortOrder" />
+<Report ErrorType="P" ErrorCode="P0302" Message="There are no duplicate subtables" TestName="cmap_DuplicateSubtables" />
+<Report ErrorType="P" ErrorCode="P0308" Message="No overlapping subtables were found" TestName="cmap_SubtableOverlap" />
+<Report ErrorType="P" ErrorCode="P0310" Message="Each subtable's format number is valid" TestName="cmap_ValidFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 0, EncID = 3, Fmt = 4" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="W" ErrorCode="W0306" Message="The format is 12, but the encoding id is not 10" Details="PlatID = 0, EncID = 4, Fmt = 12" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 0, EncID = 4, Fmt = 12" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 1, EncID = 0, Fmt = 6" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 3, EncID = 1, Fmt = 4" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="P" ErrorCode="P0305" Message="The subtable internal format appears valid" Details="PlatID = 3, EncID = 10, Fmt = 12" TestName="cmap_SubtableInternalFormat" />
+<Report ErrorType="P" ErrorCode="P0301" Message="The table contains both Apple and Microsoft subtables" TestName="cmap_AppleMSSupport" />
+<Report ErrorType="P" ErrorCode="P0300" Message="Character code 240, the Apple logo, is mapped to missing glyph in cmap 1,0 (legal requirement for Microsoft fonts)" TestName="cmap_AppleLogo" />
+<Report ErrorType="P" ErrorCode="P0303" Message="Character code 219, the euro character, is mapped for cmap 1,0" TestName="cmap_EuroGlyph" />
+<Report ErrorType="P" ErrorCode="P0304" Message="Character code U+20AC, the euro character, is mapped for cmap 3,1" TestName="cmap_EuroGlyph" />
+<Report ErrorType="P" ErrorCode="P0311" Message="No characters are mapped in the Unicode Private Use area" TestName="cmap_PrivateUse" />
+<Report ErrorType="P" ErrorCode="P0314" Message="All non mac subtables have a language field of zero" TestName="cmap_SubtableLanguage" />
+</TableEntry>
+<TableEntry Tag="head" Offset="0x000000d4" Length="0x00000036" Checksum="0x0aaf7ee5" CodeFriendlyTag="head">
+<Report ErrorType="P" ErrorCode="P1323" Message="Table length is 54 bytes" TestName="head_TableLength" />
+<Report ErrorType="P" ErrorCode="P1324" Message="The table version number is 0x00010000" TestName="head_TableVersion" />
+<Report ErrorType="P" ErrorCode="P1330" Message="fontRevision is consistent with the font's version string" Details="1.000" TestName="head_fontRevision" />
+<Report ErrorType="P" ErrorCode="P1307" Message="Font checksum is correct" Details="0x5c8e5ee6" TestName="head_ChecksumAdjustment" />
+<Report ErrorType="P" ErrorCode="P1321" Message="The magic number is 0x5f0f3cf5" TestName="head_MagicNumber" />
+<Report ErrorType="P" ErrorCode="P1303" Message="Non-linear scaling flag (bit 4) is clear, and hdmx table is not present" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1304" Message="Non-linear scaling flag (bit 4) is clear, and LTSH table is not present" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1301" Message="Reserved bit 14 of the flags field is clear" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1302" Message="Reserved bit 15 of the flags field is clear" TestName="head_FlagTests" />
+<Report ErrorType="P" ErrorCode="P1300" Message="The created time is not zero" TestName="head_Dates" />
+<Report ErrorType="P" ErrorCode="P1322" Message="The modified time is not zero" TestName="head_Dates" />
+<Report ErrorType="I" ErrorCode="I0050" Message="Cannot perform test since this is a CFF font" Details="test = head_MinMaxValues" TestName="head_MinMaxValues" />
+<Report ErrorType="P" ErrorCode="P1316" Message="The macStyle bold bit matches the name table's font subfamily string" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1320" Message="The macStyle italic bit matches the name table's font subfamily string" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1314" Message="The macStyle bold bit matches the OS/2 fsSelection bit" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1318" Message="The macStyle italic bit matches the OS/2 fsSelection bit" TestName="head_MacStyleBits" />
+<Report ErrorType="P" ErrorCode="P1319" Message="The macStyle italic bit matches the post table italic angle" TestName="head_MacStyleBits" />
+<Report ErrorType="W" ErrorCode="W1305" Message="The lowestRecPPEM value may be unreasonably small" Details="lowestRecPPEM = 3" TestName="head_LowestRecSize" />
+<Report ErrorType="P" ErrorCode="P1308" Message="The fontDirectionHint is in the range -2..2" Details="2" TestName="head_FontDirectionHint" />
+<Report ErrorType="P" ErrorCode="P1310" Message="The indexToLocFormat value is ignored in a CFF font" Details="indexToLocFormat = 0" TestName="head_IndexToLocFormat" />
+<Report ErrorType="P" ErrorCode="P1309" Message="The glyphDataFormat value is 0" TestName="head_GlyphDataFormat" />
+</TableEntry>
+<TableEntry Tag="hhea" Offset="0x00000ff8" Length="0x00000024" Checksum="0x085e0814" CodeFriendlyTag="hhea">
+<Report ErrorType="P" ErrorCode="P1406" Message="The table version number is 0x00010000" TestName="hhea_version" />
+<Report ErrorType="P" ErrorCode="P1409" Message="The Ascender value is greater than zero" TestName="hhea_AscenderPositive" />
+<Report ErrorType="P" ErrorCode="P1411" Message="The Descender is less than zero" TestName="hhea_DescenderNegative" />
+<Report ErrorType="P" ErrorCode="P1410" Message="Ascender is less than or equal to head.yMax" TestName="hhea_Ascender_yMax" />
+<Report ErrorType="P" ErrorCode="P1412" Message="Descender is greater than or equal to head.yMin" TestName="hhea_Descender_yMin" />
+<Report ErrorType="P" ErrorCode="P1413" Message="LineGap is greater than or equal to 0" TestName="hhea_LineGapPositive" />
+<Report ErrorType="W" ErrorCode="W1405" Message="Ascender is different than OS/2.usWinAscent. Different line heights on Windows and Apple" Details="hhea.Ascender = 630, OS/2.usWinAscent = 832" TestName="hhea_Ascender_usWinAscent" />
+<Report ErrorType="W" ErrorCode="W1406" Message="Descender is different than OS/2.usWinDescent. Different line heights on Windows and Apple" Details="hhea.Descender = -370, OS/2.usWinDescent = 448" TestName="hhea_Descender_usWinDescent" />
+<Report ErrorType="W" ErrorCode="W1404" Message="The LineGap value is less than the recommended value" Details="LineGap = 0, recommended = 280" TestName="hhea_LineGap_minGap" />
+<Report ErrorType="I" ErrorCode="I0050" Message="Cannot perform test since this is a CFF font" Details="test = hhea_MinMax" TestName="hhea_MinMax" />
+<Report ErrorType="P" ErrorCode="P1405" Message="The reserved fields are all set to zero" TestName="hhea_reserved" />
+<Report ErrorType="P" ErrorCode="P1401" Message="The metricDataFormat field is set to zero" TestName="hhea_metricDataFormat" />
+<Report ErrorType="P" ErrorCode="P1404" Message="The numberOfHMetrics value is consistent with the length of the hmtx table" TestName="hhea_numberOfHMetrics" />
+<Report ErrorType="P" ErrorCode="P1408" Message="The caretSlope angle matches the post.italicAngle" TestName="hhea_caretSlope" />
+</TableEntry>
+<TableEntry Tag="hmtx" Offset="0x0000010c" Length="0x00000eec" Checksum="0x38505067" CodeFriendlyTag="hmtx">
+<Report ErrorType="P" ErrorCode="P1501" Message="The size of the table matches the calculated size" TestName="hmtx_TableSize" />
+<Report ErrorType="P" ErrorCode="P1500" Message="The horizontal metrics are all within an allowable range of values" TestName="hmtx_CheckMetrics" />
+</TableEntry>
+<TableEntry Tag="maxp" Offset="0x000000cc" Length="0x00000006" Checksum="0x03bc5000" CodeFriendlyTag="maxp">
+<Report ErrorType="P" ErrorCode="P1904" Message="Table version is 0x00005000, CFF table is present, no glyf table is present" TestName="maxp_TableVersion" />
+<Report ErrorType="P" ErrorCode="P1901" Message="Table version is 0x00005000 and the table is 6 bytes long" TestName="maxp_TableLength" />
+<Report ErrorType="I" ErrorCode="I0051" Message="Cannot perform test, table is wrong version!" Details="test = maxp_NumGlyphsMatchLoca" TestName="maxp_NumGlyphsMatchLoca" />
+<Report ErrorType="I" ErrorCode="I0051" Message="Cannot perform test, table is wrong version!" Details="test = maxp_GlyphStats" TestName="maxp_GlyphStats" />
+</TableEntry>
+<TableEntry Tag="name" Offset="0x0000107c" Length="0x000004f1" Checksum="0x70bb0b89" CodeFriendlyTag="name">
+<Report ErrorType="P" ErrorCode="P2001" Message="The format selector field is 0" TestName="name_FormatSelector" />
+<Report ErrorType="P" ErrorCode="P2007" Message="No strings extended past the end of the table" TestName="name_StringsWithinTable" />
+<Report ErrorType="P" ErrorCode="P2003" Message="The NameRecords array is in sorted order" TestName="name_NameRecordsSorted" />
+<Report ErrorType="P" ErrorCode="P2006" Message="No name records are using reserved Name IDs" TestName="name_ReservedNameIDs" />
+<Report ErrorType="P" ErrorCode="P2000" Message="The table contains strings for both Mac and Microsoft platforms" TestName="name_BothPlatforms" />
+<Report ErrorType="P" ErrorCode="P2009" Message="The version string is in the correct format" Details="platID = 3, encID = 1, langID = 1033, &quot;Version 1.000;PS 001.000;hotconv 1.0.88;makeotf.lib2.5.64775&quot;" TestName="name_VersionString" />
+<Report ErrorType="P" ErrorCode="P2004" Message="All strings had valid Platform Specific Encoding IDs" TestName="name_PlatformSpecificEncoding" />
+<Report ErrorType="P" ErrorCode="P2002" Message="All Microsoft unicode strings had valid Language IDs" TestName="name_MSLanguageIDs" />
+<Report ErrorType="P" ErrorCode="P2008" Message="The length of every unicode string is an even # of bytes" TestName="name_unicode_length" />
+<Report ErrorType="P" ErrorCode="P2005" Message="The PostScript strings are correctly formatted" TestName="name_Postscript" />
+<Report ErrorType="P" ErrorCode="P2010" Message="The subfamily string is consistent with the style of the font" TestName="name_Subfamily" />
+<Report ErrorType="P" ErrorCode="P2015" Message="No name record specified Unicode Variation Sequences cmap subtable" Details="PlatformID=0, EncodingID=5 is for Variation Sequences (Format 14)" TestName="name_NoFormat14" />
+<Report ErrorType="I" ErrorCode="I2001" Message="Preferred family" Details="platID = 3, encID = 1, langID = 1033, nameID = 16, &quot;Benne&quot;" TestName="name_PreferredFamily" />
+<Report ErrorType="I" ErrorCode="I2003" Message="Preferred subfamily" Details="platID = 3, encID = 1, langID = 1033, nameID = 17, &quot;Text&quot;" TestName="name_PreferredSubfamily" />
+<Report ErrorType="P" ErrorCode="P2012" Message="No inconsistencies were found for Copyright strings" TestName="name_CopyrightConsistent" />
+<Report ErrorType="P" ErrorCode="P2014" Message="No inconsistencies were found for Trademark strings" TestName="name_TrademarkConsistent" />
+<Report ErrorType="P" ErrorCode="P2013" Message="No inconsistencies were found for Description strings" TestName="name_DescriptionConsistent" />
+</TableEntry>
+<TableEntry Tag="post" Offset="0x00002d60" Length="0x00000020" Checksum="0xffb80032" CodeFriendlyTag="post">
+<Report ErrorType="P" ErrorCode="P2304" Message="The table length is valid" TestName="post_TableLength" />
+<Report ErrorType="P" ErrorCode="P2308" Message="The version number is valid" TestName="post_Version" />
+<Report ErrorType="P" ErrorCode="P2302" Message="The italicAngle value is reasonable and consistent with other tables" TestName="post_italicAngle" />
+<Report ErrorType="P" ErrorCode="P2305" Message="The underlinePosition value is not less than hhea.Descender" TestName="post_underlinePosition" />
+<Report ErrorType="P" ErrorCode="P2306" Message="The underlineThickness value is reasonable" TestName="post_underlineThickness" />
+<Report ErrorType="P" ErrorCode="P2301" Message="The isFixedPitch field is consistent with other table(s)" Details="matches the hmtx and OS/2 tables" TestName="post_isFixedPitch" />
+<Report ErrorType="I" ErrorCode="I2304" Message="The numberOfGlyphs field was not tested since version != 2" TestName="post_v2_numberOfGlyphs" />
+<Report ErrorType="I" ErrorCode="I2302" Message="The glyphNameIndex array was not tested since version != 2" TestName="post_v2_glyphNameIndex" />
+<Report ErrorType="I" ErrorCode="I2303" Message="The post name was not tested since version != 2" TestName="post_v2_names" />
+</TableEntry>
+<RasterizationTest_BW>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_BW>
+<RasterizationTest_Grayscale>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_Grayscale>
+<RasterizationTest_ClearType>
+<Report ErrorType="I" ErrorCode="I0052" Message="Rasterization not selected for validation" />
+</RasterizationTest_ClearType>
+</Font>
+<Report ErrorType="I" ErrorCode="I0005" Message="Total time validating file" Details="0:00:02" />
+</FontFile>
+</FontValidatorReport>
