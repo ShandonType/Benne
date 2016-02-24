@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKAU" format="1">
+  <advance width="901"/>
+  <outline>
+    <component base="knKA.base"/>
+    <component base="knmAU" xOffset="95"/>
+    <contour>
+      <point x="270" y="0" type="move" name="blwm.kssa"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

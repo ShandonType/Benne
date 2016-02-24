@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knDU" format="1">
+  <advance width="1055"/>
+  <outline>
+    <component base="knDA"/>
+    <component base="knmU" xOffset="698"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
