@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rcommaaccent" format="1">
+  <advance width="314"/>
+  <unicode hex="0157"/>
+  <outline>
+    <contour>
+      <point x="34" y="-238" type="line"/>
+      <point x="144" y="-51" type="line"/>
+      <point x="68" y="-51" type="line"/>
+      <point x="-20" y="-238" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>3</integer>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

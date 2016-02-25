@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knBHU" format="1">
+  <advance width="1093"/>
+  <outline>
+    <component base="knBHA"/>
+    <component base="knmU" xOffset="751"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knmU</string>
+    </dict>
+  </lib>
+</glyph>

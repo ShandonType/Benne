@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knYO" format="1">
+  <advance width="1627"/>
+  <outline>
+    <contour>
+      <point x="424" y="-14"/>
+      <point x="515" y="99"/>
+      <point x="515" y="250" type="curve" smooth="yes"/>
+      <point x="515" y="402"/>
+      <point x="425" y="519"/>
+      <point x="286" y="519" type="curve" smooth="yes"/>
+      <point x="147" y="519"/>
+      <point x="55" y="402"/>
+      <point x="55" y="250" type="curve" smooth="yes"/>
+      <point x="55" y="99"/>
+      <point x="146" y="-14"/>
+      <point x="285" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="184" y="71"/>
+      <point x="95" y="144"/>
+      <point x="95" y="259" type="curve" smooth="yes"/>
+      <point x="95" y="369"/>
+      <point x="175" y="441"/>
+      <point x="286" y="441" type="curve" smooth="yes"/>
+      <point x="397" y="441"/>
+      <point x="477" y="369"/>
+      <point x="477" y="254" type="curve" smooth="yes"/>
+      <point x="477" y="144"/>
+      <point x="386" y="71"/>
+      <point x="285" y="71" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="755" y="-14"/>
+      <point x="835" y="95"/>
+      <point x="835" y="242" type="curve" smooth="yes"/>
+      <point x="835" y="415"/>
+      <point x="739" y="509"/>
+      <point x="668" y="509" type="curve" smooth="yes"/>
+      <point x="637" y="509"/>
+      <point x="620" y="493"/>
+      <point x="620" y="470" type="curve" smooth="yes"/>
+      <point x="620" y="464"/>
+      <point x="649" y="453"/>
+      <point x="688" y="434" type="curve" smooth="yes"/>
+      <point x="735" y="411"/>
+      <point x="800" y="344"/>
+      <point x="800" y="255" type="curve" smooth="yes"/>
+      <point x="800" y="137"/>
+      <point x="730" y="71"/>
+      <point x="642" y="71" type="curve" smooth="yes"/>
+      <point x="573" y="71"/>
+      <point x="520" y="105"/>
+      <point x="483" y="207" type="curve"/>
+      <point x="463" y="188" type="line"/>
+      <point x="481" y="61"/>
+      <point x="556" y="-14"/>
+      <point x="642" y="-14" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="732" y="434" type="line" smooth="yes"/>
+      <point x="813" y="434"/>
+      <point x="867" y="480"/>
+      <point x="867" y="552" type="curve" smooth="yes"/>
+      <point x="867" y="607"/>
+      <point x="836" y="648"/>
+      <point x="793" y="664" type="curve"/>
+      <point x="778" y="644" type="line"/>
+      <point x="802" y="635"/>
+      <point x="824" y="610"/>
+      <point x="824" y="576" type="curve" smooth="yes"/>
+      <point x="824" y="536"/>
+      <point x="793" y="509"/>
+      <point x="732" y="509" type="curve" smooth="yes"/>
+      <point x="540" y="509" type="line"/>
+      <point x="540" y="434" type="line"/>
+    </contour>
+    <contour>
+      <point x="813" y="434"/>
+      <point x="867" y="480"/>
+      <point x="867" y="553" type="curve" smooth="yes"/>
+      <point x="867" y="651"/>
+      <point x="789" y="685"/>
+      <point x="732" y="685" type="curve" smooth="yes"/>
+      <point x="677" y="685"/>
+      <point x="649" y="657"/>
+      <point x="649" y="625" type="curve" smooth="yes"/>
+      <point x="649" y="592"/>
+      <point x="672" y="571"/>
+      <point x="706" y="571" type="curve" smooth="yes"/>
+      <point x="740" y="571"/>
+      <point x="761" y="597"/>
+      <point x="761" y="633" type="curve" smooth="yes"/>
+      <point x="761" y="639"/>
+      <point x="763" y="643"/>
+      <point x="767" y="643" type="curve" smooth="yes"/>
+      <point x="780" y="643"/>
+      <point x="824" y="629"/>
+      <point x="824" y="577" type="curve"/>
+      <point x="824" y="530"/>
+      <point x="784" y="509"/>
+      <point x="733" y="509" type="curve"/>
+      <point x="732" y="434" type="line"/>
+    </contour>
+    <component base="knmUU" xOffset="909"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knYO</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1627</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>0.8424</real>
+        <real>0.6742</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

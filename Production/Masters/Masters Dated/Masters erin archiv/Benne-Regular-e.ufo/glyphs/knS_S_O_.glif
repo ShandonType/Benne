@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSSO" format="1">
+  <advance width="1424"/>
+  <outline>
+    <component base="knSSE"/>
+    <component base="knmUU" xOffset="709"/>
+  </outline>
+</glyph>

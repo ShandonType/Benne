@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knNAc2.following" format="1">
+  <advance width="370"/>
+  <outline>
+    <contour>
+      <point x="-120" y="-355"/>
+      <point x="-160" y="-326"/>
+      <point x="-160" y="-273" type="curve" smooth="yes"/>
+      <point x="-160" y="-233"/>
+      <point x="-132" y="-200"/>
+      <point x="-91" y="-200" type="curve" smooth="yes"/>
+      <point x="38" y="-200"/>
+      <point x="21" y="-470"/>
+      <point x="187" y="-470" type="curve" smooth="yes"/>
+      <point x="210" y="-470"/>
+      <point x="223" y="-457"/>
+      <point x="223" y="-441" type="curve" smooth="yes"/>
+      <point x="223" y="-423"/>
+      <point x="215" y="-409"/>
+      <point x="188" y="-409" type="curve" smooth="yes"/>
+      <point x="7" y="-409"/>
+      <point x="67" y="-165"/>
+      <point x="-91" y="-165" type="curve" smooth="yes"/>
+      <point x="-152" y="-165"/>
+      <point x="-196" y="-213"/>
+      <point x="-196" y="-277" type="curve" smooth="yes"/>
+      <point x="-196" y="-354"/>
+      <point x="-149" y="-415"/>
+      <point x="-47" y="-415" type="curve" smooth="yes"/>
+      <point x="45" y="-415"/>
+      <point x="134" y="-341"/>
+      <point x="134" y="-191" type="curve" smooth="yes"/>
+      <point x="134" y="-47"/>
+      <point x="58" y="60"/>
+      <point x="17" y="60" type="curve" smooth="yes"/>
+      <point x="2" y="60"/>
+      <point x="-8" y="49"/>
+      <point x="-8" y="36" type="curve" smooth="yes"/>
+      <point x="-8" y="21"/>
+      <point x="0" y="11"/>
+      <point x="18" y="-5" type="curve" smooth="yes"/>
+      <point x="43" y="-27"/>
+      <point x="107" y="-96"/>
+      <point x="107" y="-196" type="curve" smooth="yes"/>
+      <point x="107" y="-304"/>
+      <point x="31" y="-355"/>
+      <point x="-50" y="-355" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

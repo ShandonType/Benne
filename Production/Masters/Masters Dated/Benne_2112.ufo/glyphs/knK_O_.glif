@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knKO" format="1">
+  <advance width="1186"/>
+  <outline>
+    <component base="knKE"/>
+    <component base="knmUU" xOffset="471"/>
+    <contour>
+      <point x="270" y="0" type="move" name="blwm.kssa"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knUU</string>
+    </dict>
+  </lib>
+</glyph>
