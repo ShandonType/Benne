@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="knSA.base" format="1">
+  <advance width="660"/>
+  <outline>
+    <contour>
+      <point x="100" y="120"/>
+      <point x="152" y="170"/>
+      <point x="218" y="170" type="curve" smooth="yes"/>
+      <point x="365" y="170"/>
+      <point x="387" y="-14"/>
+      <point x="498" y="-14" type="curve" smooth="yes"/>
+      <point x="577" y="-14"/>
+      <point x="610" y="62"/>
+      <point x="610" y="150" type="curve" smooth="yes"/>
+      <point x="610" y="237"/>
+      <point x="581" y="319"/>
+      <point x="521" y="377" type="curve"/>
+      <point x="498" y="360" type="line"/>
+      <point x="540" y="310"/>
+      <point x="566" y="249"/>
+      <point x="566" y="188" type="curve" smooth="yes"/>
+      <point x="566" y="114"/>
+      <point x="536" y="71"/>
+      <point x="482" y="71" type="curve" smooth="yes"/>
+      <point x="369" y="71"/>
+      <point x="352" y="247"/>
+      <point x="219" y="247" type="curve" smooth="yes"/>
+      <point x="124" y="247"/>
+      <point x="64" y="144"/>
+      <point x="64" y="-6" type="curve"/>
+      <point x="93" y="-14" type="line"/>
+    </contour>
+    <contour>
+      <point x="345" y="288"/>
+      <point x="367" y="314"/>
+      <point x="367" y="347" type="curve" smooth="yes"/>
+      <point x="367" y="380"/>
+      <point x="345" y="404"/>
+      <point x="309" y="404" type="curve" smooth="yes"/>
+      <point x="273" y="404"/>
+      <point x="251" y="380"/>
+      <point x="251" y="347" type="curve" smooth="yes"/>
+      <point x="251" y="314"/>
+      <point x="273" y="288"/>
+      <point x="309" y="288" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="479" y="434" type="line"/>
+      <point x="479" y="509" type="line"/>
+      <point x="45" y="509" type="line"/>
+      <point x="45" y="434" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>11</integer>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>=knSA</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>=knSA</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>knSA.base</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>660</integer>
+        </dict>
+      </dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

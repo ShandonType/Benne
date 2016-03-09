@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="373"/>
+  <unicode hex="005D"/>
+  <outline>
+    <contour>
+      <point x="226" y="-200" type="line" smooth="yes"/>
+      <point x="251" y="-200"/>
+      <point x="257" y="-198"/>
+      <point x="257" y="-175" type="curve" smooth="yes"/>
+      <point x="257" y="668" type="line" smooth="yes"/>
+      <point x="257" y="700"/>
+      <point x="252" y="702"/>
+      <point x="219" y="702" type="curve" smooth="yes"/>
+      <point x="54" y="701" type="line" smooth="yes"/>
+      <point x="42" y="701"/>
+      <point x="36" y="697"/>
+      <point x="36" y="688" type="curve" smooth="yes"/>
+      <point x="36" y="679"/>
+      <point x="45" y="674"/>
+      <point x="62" y="673" type="curve" smooth="yes"/>
+      <point x="170" y="667" type="line"/>
+      <point x="186" y="667"/>
+      <point x="209" y="643"/>
+      <point x="209" y="624" type="curve" smooth="yes"/>
+      <point x="209" y="-105" type="line" smooth="yes"/>
+      <point x="209" y="-132"/>
+      <point x="193" y="-151"/>
+      <point x="174" y="-154" type="curve"/>
+      <point x="62" y="-167" type="line"/>
+      <point x="45" y="-170"/>
+      <point x="36" y="-176"/>
+      <point x="36" y="-185" type="curve" smooth="yes"/>
+      <point x="36" y="-195"/>
+      <point x="45" y="-200"/>
+      <point x="62" y="-200" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>bracketright</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>373</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

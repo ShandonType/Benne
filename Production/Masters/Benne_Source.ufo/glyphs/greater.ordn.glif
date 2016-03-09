@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.ordn" format="1">
+  <advance width="354"/>
+  <outline>
+    <contour>
+      <point x="32" y="277" type="line"/>
+      <point x="316" y="397" type="line"/>
+      <point x="328" y="401"/>
+      <point x="337" y="419"/>
+      <point x="337" y="425" type="curve" smooth="yes"/>
+      <point x="337" y="428"/>
+      <point x="328" y="433"/>
+      <point x="311" y="441" type="curve" smooth="yes"/>
+      <point x="32" y="561" type="line"/>
+      <point x="30" y="561" type="line" smooth="yes"/>
+      <point x="25" y="561"/>
+      <point x="23" y="559"/>
+      <point x="23" y="554" type="curve" smooth="yes"/>
+      <point x="23" y="539"/>
+      <point x="28" y="529"/>
+      <point x="38" y="525" type="curve" smooth="yes"/>
+      <point x="285" y="420" type="line"/>
+      <point x="287" y="419"/>
+      <point x="287" y="418"/>
+      <point x="286" y="417" type="curve"/>
+      <point x="44" y="313" type="line"/>
+      <point x="30" y="308"/>
+      <point x="23" y="298"/>
+      <point x="23" y="284" type="curve" smooth="yes"/>
+      <point x="23" y="279"/>
+      <point x="25" y="277"/>
+      <point x="30" y="277" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>bkgd</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>greater.ordn</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>354</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
