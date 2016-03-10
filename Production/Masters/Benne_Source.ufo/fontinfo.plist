@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>New Value</key>
+	<string>New Parameter</string>
 	<key>ascender</key>
 	<integer>777</integer>
 	<key>capHeight</key>
@@ -12,8 +14,9 @@
 	<integer>-285</integer>
 	<key>familyName</key>
 	<string>Benne</string>
-	<key>note</key>
-	<string> </string>
+	<key>fsType</key>
+	<array>
+	</array>
 	<key>openTypeHeadCreated</key>
 	<string>2015/09/28 17:09:01</string>
 	<key>openTypeHheaAscender</key>

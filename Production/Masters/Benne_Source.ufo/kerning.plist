@@ -1447,6 +1447,12 @@
 		<integer>580</integer>
 		<key>knYAc2</key>
 		<integer>480</integer>
+		<key>knmAI</key>
+		<integer>500</integer>
+		<key>knmvR</key>
+		<integer>470</integer>
+		<key>knmvRR</key>
+		<integer>470</integer>
 		<key>parenright</key>
 		<integer>290</integer>
 		<key>question</key>
@@ -2871,6 +2877,10 @@
 		<integer>600</integer>
 		<key>knYAc2</key>
 		<integer>540</integer>
+		<key>knmvR</key>
+		<integer>500</integer>
+		<key>knmvRR</key>
+		<integer>500</integer>
 		<key>parenright</key>
 		<integer>290</integer>
 		<key>question</key>
@@ -3759,6 +3769,10 @@
 		<key>knVAc2</key>
 		<integer>520</integer>
 		<key>knYAc2</key>
+		<integer>400</integer>
+		<key>knmvR</key>
+		<integer>400</integer>
+		<key>knmvRR</key>
 		<integer>400</integer>
 		<key>parenright</key>
 		<integer>150</integer>

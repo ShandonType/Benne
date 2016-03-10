@@ -48,7 +48,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
-      <integer>8</integer>
+      <integer>9</integer>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=knUU</string>
       <key>com.typemytype.robofont.layerData</key>
@@ -77,7 +77,7 @@
         </dict>
       </dict>
       <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
+      <string>0.98,0.36,0.67,1</string>
     </dict>
   </lib>
 </glyph>
