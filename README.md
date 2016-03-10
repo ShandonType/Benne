@@ -1,6 +1,5 @@
 
 # Benne ಬೆಣ್ಣೆ
-a Kannada + Latin typeface
 ==================================
 
 Benne is a Kannada text font developed by 
