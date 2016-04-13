@@ -5,6 +5,12 @@
 ![Benne](https://rawgit.com/PostStudio/Benne/master/Production/Samples/poemsample.png “Benne”) is a Kannada text font developed by [John Harrington](http://poststudio.net). 
 Benne will be available via Google Fonts.
 
+
+![Screenshot of a test](https://raw.githubusercontent.com/erinmclaughlin/Hubballi/feedback/tests/screenshots/mac-chrome/Screen%20Shot%202015-12-05%20at%2010.30.41%20PM.png)</a>
+
+
+
+
 Design considerations
 This typeface was designed to meet the needs of enabling better digital reading experiences in the Kannada script. The lack of suitable Kannada typefaces results in either poor reading experiences or transliteration of content into Latin script. 
 
