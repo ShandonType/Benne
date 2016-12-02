@@ -2,7 +2,7 @@
 # Benne ಬೆಣ್ಣೆ
 ==================================
 
-![Benne](https://rawgit.com/PostStudio/Benne/master/Production/Samples/poemsample.png "Benne") <br> is a Kannada text font developed by [John Harrington](http://poststudio.net). 
+![Benne](https://rawgit.com/PostStudio/Benne/master/Production/Samples/poemsample.png "Benne") <br> is a Kannada text font developed by [John Harrington](https://twitter.com/shandontype). 
 Benne will be available via Google Fonts.
 
 Design considerations
@@ -15,7 +15,7 @@ The design aims to address to current lack of well designed fonts for screen use
 
 Further the design of this font concerns itself with harmonising with [EB Garamond](https://www.google.com/fonts/specimen/EB+Garamond), originally designed by Georg Duffner. However rather than mimick some of the stylistic features of this Garamond, Benne stays true to the Kannada writing system, matching itself in terms of color balance in the document.
 
-Please do [file issues](https://github.com/misemefein/Benne/issues) with any comments or questions, and [get in touch](mailto:holler@poststudio.net) for details on custom type development services to improve the font. Source files are [available](https://github.com/PostStudio/Benne/tree/master/Production/Masters) also.
+Please do [file issues](https://github.com/misemefein/Benne/issues) with any comments or questions, and [get in touch](mailto:john@shandontype.com) for details on custom type development services to improve the font. Source files are [available](https://github.com/PostStudio/Benne/tree/master/Production/Masters) also.
 
 
 Many thanks to Dave Crossland and Erin McLaughlin.
